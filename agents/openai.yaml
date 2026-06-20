@@ -1,0 +1,4 @@
+interface:
+  display_name: "Heterojunction Builder"
+  short_description: "Build slab heterojunction models from local CIF files."
+  default_prompt: "Build a slab heterojunction from local CIF files with literature-based interface distance, low lattice mismatch, vacuum, and selective dynamics constraints."
